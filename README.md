@@ -1,2 +1,54 @@
-# RTL-basic
-basic concept of verilog
+# ***100Daysof_RTL***
+> The Repository contains the code of various Digital Circuits
+
+ *  Day 1 = [Half Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/1-%20Half%20Adder)
+ *  Day 2 = [Full Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/2-%20Full%20Adder)
+ *  Day 3 = [Half Subtracter](https://github.com/maazm007/100Daysof_RTL/tree/main/3-%20Half%20Subtracter)
+ *  Day 4 = [Full Subtracter](https://github.com/maazm007/100Daysof_RTL/tree/main/4-%20Full%20Subtracter)
+ *  Day 5 = [Ripple Carry Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/5-%20Ripple%20Carry%20Adder)
+ *  Day 6 = [Full Adder using Half Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/6-%20Full%20Adder%20using%20Half%20Adder)
+ *  Day 7 = [Carry Select Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/7-%20Carry%20Select%20Adder)
+ *  Day 8 = [Carry Look Ahead Adder](https://github.com/maazm007/100Daysof_RTL/tree/main/8-%20Carry%20Look%20Ahead%20Adder)
+ *  Day 9 = [4X1 Multiplexer](https://github.com/maazm007/100Daysof_RTL/tree/main/9-%204-1%20Multiplexer)
+ *  Day 10 = [Logic Gates using Multiplexer](https://github.com/maazm007/100Daysof_RTL/tree/main/10-%20Gates%20using%20Multiplexer)
+ *  Day 11 = [3:8 Decoder](https://github.com/maazm007/100Daysof_RTL/tree/main/11-%203-8%20Decoder)
+ *  Day 12 = [8:3 Encoder](https://github.com/maazm007/100Daysof_RTL/tree/main/12-%208-3%20Encoder)
+ *  Day 13 = [Priority Encoder](https://github.com/maazm007/100Daysof_RTL/tree/main/13-%20Priority%20Encoder)
+ *  Day 14 = [3-Bit Comparator](https://github.com/maazm007/100Daysof_RTL/tree/main/14-%203%20Bit%20Comparator)
+ *  Day 15 = [Binary to Gray Code Converter](https://github.com/maazm007/100Daysof_RTL/tree/main/15-%20Binary%20to%20Gray%20Converter)
+ *  Day 16 = Gray to Binary Code Converter
+ *  Day 17 = SR Latch
+ *  Day 18 = JK Latch
+ *  Day 19 = Master Slave JK Flip Flop
+ *  Day 20 = D Flip Flop
+ *  Day 21 = T Flip Flop
+ *  Day 22 = 4-bit Up Counter
+ *  Day 23 = 4-bit Odd Even Counter
+ *  Day 24 = 4-bit Up-Down Counter
+ *  Day 25 = 4-bit Ring Counter
+ *  Day 26 = 4-bit Johnson Counter
+ *  Day 27 = Frequency Divider
+ *  Day 28 = Digital Clock
+ *  Day 29 = Parity Generator
+ *  Day 30 = Decimal to Binary Converter
+ *  Day 31 = Binary to Decimal Converter
+ *  Day 32 = Binary to BCD Converter
+ *  Day 33 = BCD to Binary Converter
+ *  Day 34 = Binary to Excess3 Converter
+ *  Day 35 = Excess3 to Binary Converter
+ *  Day 36 = Decimal to Octal Converter
+ *  Day 37 = SISO Shift Register
+ *  Day 38 = SIPO Shift Register
+ *  Day 39 = PIPO Shift Register
+ *  Day 40 = PISO Shift Register
+ *  Day 41 = N-Bit Adder
+ *  Day 43 = PWM Generator
+ *  Day 44 = ALU (Arithmetic Logical Unit)
+ *  Day 45 = Signed Adder
+ *  Day 46 = Signed Subtracter
+ *  Day 47 = Signed Multiplier
+ *  Day 48 = Divider (Gate Level Modelling)
+ *  Day 49 = Signed Divider
+ *  Day 51 = FSM Counter
+ *  Day 52 = Pattern Detector 1101 using Moore Machine
+ *  Day 52 = Pattern Detector 1101 using Mealy Machine
